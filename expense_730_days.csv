@@ -1,0 +1,731 @@
+date,category,amount,description
+2024-09-01,Food,1010,Dinner - Sep 01 #001
+2024-09-02,Entertainment,350,Bowling - Sep 02 #002
+2024-09-03,Transport,970,Parking - Sep 03 #003
+2024-09-04,Entertainment,1480,Streaming - Sep 04 #004
+2024-09-05,Education,600,Lab material - Sep 05 #005
+2024-09-06,Food,130,Lunch - Sep 06 #006
+2024-09-07,Entertainment,2050,Streaming - Sep 07 #007
+2024-09-08,Food,630,Food delivery - Sep 08 #008
+2024-09-09,Health,1030,Health products - Sep 09 #009
+2024-09-10,Personal Care,670,Haircut - Sep 10 #010
+2024-09-11,Health,1240,Health products - Sep 11 #011
+2024-09-12,Utilities,1340,Cloud storage - Sep 12 #012
+2024-09-13,Food,370,Dinner - Sep 13 #013
+2024-09-14,Education,1160,Printing - Sep 14 #014
+2024-09-15,Health,2130,First-aid supplies - Sep 15 #015
+2024-09-16,Personal Care,950,Haircut - Sep 16 #016
+2024-09-17,Food,230,Breakfast - Sep 17 #017
+2024-09-18,Food,510,Cafe - Sep 18 #018
+2024-09-19,Transport,780,Fuel - Sep 19 #019
+2024-09-20,Education,1800,Printing - Sep 20 #020
+2024-09-21,Transport,1000,Cab fare - Sep 21 #021
+2024-09-22,Entertainment,570,Event ticket - Sep 22 #022
+2024-09-23,Education,1640,Project supplies - Sep 23 #023
+2024-09-24,Transport,60,Metro fare - Sep 24 #024
+2024-09-25,Transport,260,Ride share - Sep 25 #025
+2024-09-26,Transport,490,Ride share - Sep 26 #026
+2024-09-27,Shopping,2260,Clothes - Sep 27 #027
+2024-09-28,Entertainment,230,Music subscription - Sep 28 #028
+2024-09-29,Utilities,250,Hostel utility - Sep 29 #029
+2024-09-30,Food,180,Cafe - Sep 30 #030
+2024-10-01,Entertainment,1180,Event ticket - Oct 01 #031
+2024-10-02,Food,630,Breakfast - Oct 02 #032
+2024-10-03,Education,120,Online class - Oct 03 #033
+2024-10-04,Transport,980,Ride share - Oct 04 #034
+2024-10-05,Education,890,Online class - Oct 05 #035
+2024-10-06,Food,590,Hostel mess extra - Oct 06 #036
+2024-10-07,Food,370,Hostel mess extra - Oct 07 #037
+2024-10-08,Personal Care,1040,Toiletries - Oct 08 #038
+2024-10-09,Personal Care,290,Toiletries - Oct 09 #039
+2024-10-10,Education,1270,Lab material - Oct 10 #040
+2024-10-11,Personal Care,980,Salon - Oct 11 #041
+2024-10-12,Transport,800,Metro fare - Oct 12 #042
+2024-10-13,Food,880,Dinner - Oct 13 #043
+2024-10-14,Utilities,1360,OTT subscription - Oct 14 #044
+2024-10-15,Food,690,Hostel mess extra - Oct 15 #045
+2024-10-16,Transport,640,Cab fare - Oct 16 #046
+2024-10-17,Food,300,Cafe - Oct 17 #047
+2024-10-18,Transport,1030,Cab fare - Oct 18 #048
+2024-10-19,Personal Care,1280,Toiletries - Oct 19 #049
+2024-10-20,Food,360,Hostel mess extra - Oct 20 #050
+2024-10-21,Food,820,Lunch - Oct 21 #051
+2024-10-22,Entertainment,1620,Bowling - Oct 22 #052
+2024-10-23,Transport,1010,Metro fare - Oct 23 #053
+2024-10-24,Food,640,Lunch - Oct 24 #054
+2024-10-25,Personal Care,340,Laundry - Oct 25 #055
+2024-10-26,Health,1490,Medicine - Oct 26 #056
+2024-10-27,Entertainment,1350,Outing - Oct 27 #057
+2024-10-28,Health,190,Gym fee - Oct 28 #058
+2024-10-29,Utilities,900,Mobile recharge - Oct 29 #059
+2024-10-30,Transport,390,Ride share - Oct 30 #060
+2024-10-31,Education,1340,Notebook - Oct 31 #061
+2024-11-01,Personal Care,1180,Grooming - Nov 01 #062
+2024-11-02,Education,310,Project supplies - Nov 02 #063
+2024-11-03,Health,1600,First-aid supplies - Nov 03 #064
+2024-11-04,Education,940,Online class - Nov 04 #065
+2024-11-05,Food,800,Breakfast - Nov 05 #066
+2024-11-06,Food,770,Food delivery - Nov 06 #067
+2024-11-07,Transport,700,Bus fare - Nov 07 #068
+2024-11-08,Health,560,Medicine - Nov 08 #069
+2024-11-09,Personal Care,850,Salon - Nov 09 #070
+2024-11-10,Health,770,First-aid supplies - Nov 10 #071
+2024-11-11,Food,180,Cafe - Nov 11 #072
+2024-11-12,Education,340,Stationery - Nov 12 #073
+2024-11-13,Food,140,Snacks - Nov 13 #074
+2024-11-14,Education,1480,Stationery - Nov 14 #075
+2024-11-15,Education,1760,Lab material - Nov 15 #076
+2024-11-16,Transport,680,Bus fare - Nov 16 #077
+2024-11-17,Food,1020,Hostel mess extra - Nov 17 #078
+2024-11-18,Utilities,870,Electricity share - Nov 18 #079
+2024-11-19,Food,140,Dinner - Nov 19 #080
+2024-11-20,Transport,470,Fuel - Nov 20 #081
+2024-11-21,Utilities,1380,Internet recharge - Nov 21 #082
+2024-11-22,Shopping,270,Backpack - Nov 22 #083
+2024-11-23,Transport,530,Metro fare - Nov 23 #084
+2024-11-24,Shopping,3000,Backpack - Nov 24 #085
+2024-11-25,Shopping,2150,Gifts - Nov 25 #086
+2024-11-26,Education,760,Printing - Nov 26 #087
+2024-11-27,Food,90,Breakfast - Nov 27 #088
+2024-11-28,Transport,550,Parking - Nov 28 #089
+2024-11-29,Utilities,120,Electricity share - Nov 29 #090
+2024-11-30,Transport,530,Auto fare - Nov 30 #091
+2024-12-01,Health,360,Gym fee - Dec 01 #092
+2024-12-02,Education,1710,Course material - Dec 02 #093
+2024-12-03,Transport,70,Cab fare - Dec 03 #094
+2024-12-04,Shopping,1280,Shoes - Dec 04 #095
+2024-12-05,Personal Care,280,Salon - Dec 05 #096
+2024-12-06,Entertainment,1760,Outing - Dec 06 #097
+2024-12-07,Transport,1000,Fuel - Dec 07 #098
+2024-12-08,Health,230,First-aid supplies - Dec 08 #099
+2024-12-09,Education,1470,Stationery - Dec 09 #100
+2024-12-10,Food,560,Dinner - Dec 10 #101
+2024-12-11,Transport,960,Ride share - Dec 11 #102
+2024-12-12,Transport,600,Auto fare - Dec 12 #103
+2024-12-13,Entertainment,480,Movie - Dec 13 #104
+2024-12-14,Health,780,Medicine - Dec 14 #105
+2024-12-15,Education,1150,Stationery - Dec 15 #106
+2024-12-16,Food,300,Food delivery - Dec 16 #107
+2024-12-17,Transport,330,Ride share - Dec 17 #108
+2024-12-18,Entertainment,210,Gaming - Dec 18 #109
+2024-12-19,Food,800,Weekend meal - Dec 19 #110
+2024-12-20,Food,570,Snacks - Dec 20 #111
+2024-12-21,Utilities,710,OTT subscription - Dec 21 #112
+2024-12-22,Health,820,Gym fee - Dec 22 #113
+2024-12-23,Shopping,1690,Gifts - Dec 23 #114
+2024-12-24,Health,450,Gym fee - Dec 24 #115
+2024-12-25,Food,330,Food delivery - Dec 25 #116
+2024-12-26,Education,1750,Online class - Dec 26 #117
+2024-12-27,Utilities,470,Electricity share - Dec 27 #118
+2024-12-28,Personal Care,940,Toiletries - Dec 28 #119
+2024-12-29,Shopping,1670,Accessories - Dec 29 #120
+2024-12-30,Food,610,Dinner - Dec 30 #121
+2024-12-31,Transport,830,Bus fare - Dec 31 #122
+2025-01-01,Personal Care,200,Haircut - Jan 01 #123
+2025-01-02,Shopping,1880,Accessories - Jan 02 #124
+2025-01-03,Transport,930,Cab fare - Jan 03 #125
+2025-01-04,Education,440,Course material - Jan 04 #126
+2025-01-05,Entertainment,790,Outing - Jan 05 #127
+2025-01-06,Entertainment,2080,Music subscription - Jan 06 #128
+2025-01-07,Shopping,970,Clothes - Jan 07 #129
+2025-01-08,Personal Care,320,Grooming - Jan 08 #130
+2025-01-09,Transport,1100,Auto fare - Jan 09 #131
+2025-01-10,Food,420,Cafe - Jan 10 #132
+2025-01-11,Education,1600,Printing - Jan 11 #133
+2025-01-12,Education,140,Lab material - Jan 12 #134
+2025-01-13,Health,1700,Gym fee - Jan 13 #135
+2025-01-14,Transport,710,Metro fare - Jan 14 #136
+2025-01-15,Entertainment,730,Movie - Jan 15 #137
+2025-01-16,Food,800,Hostel mess extra - Jan 16 #138
+2025-01-17,Entertainment,2040,Outing - Jan 17 #139
+2025-01-18,Food,510,Lunch - Jan 18 #140
+2025-01-19,Transport,370,Parking - Jan 19 #141
+2025-01-20,Shopping,1290,Clothes - Jan 20 #142
+2025-01-21,Health,390,Gym fee - Jan 21 #143
+2025-01-22,Utilities,340,Hostel utility - Jan 22 #144
+2025-01-23,Transport,270,Bus fare - Jan 23 #145
+2025-01-24,Food,340,Breakfast - Jan 24 #146
+2025-01-25,Food,320,Cafe - Jan 25 #147
+2025-01-26,Health,650,Gym fee - Jan 26 #148
+2025-01-27,Education,740,Lab material - Jan 27 #149
+2025-01-28,Shopping,760,Shoes - Jan 28 #150
+2025-01-29,Food,340,Hostel mess extra - Jan 29 #151
+2025-01-30,Personal Care,580,Skincare - Jan 30 #152
+2025-01-31,Education,750,Printing - Jan 31 #153
+2025-02-01,Personal Care,870,Haircut - Feb 01 #154
+2025-02-02,Transport,460,Ride share - Feb 02 #155
+2025-02-03,Utilities,1380,Hostel utility - Feb 03 #156
+2025-02-04,Food,290,Breakfast - Feb 04 #157
+2025-02-05,Health,640,First-aid supplies - Feb 05 #158
+2025-02-06,Personal Care,650,Grooming - Feb 06 #159
+2025-02-07,Health,940,Gym fee - Feb 07 #160
+2025-02-08,Transport,740,Bus fare - Feb 08 #161
+2025-02-09,Food,710,Dinner - Feb 09 #162
+2025-02-10,Transport,480,Fuel - Feb 10 #163
+2025-02-11,Food,730,Food delivery - Feb 11 #164
+2025-02-12,Personal Care,810,Skincare - Feb 12 #165
+2025-02-13,Transport,400,Parking - Feb 13 #166
+2025-02-14,Food,610,Weekend meal - Feb 14 #167
+2025-02-15,Transport,220,Auto fare - Feb 15 #168
+2025-02-16,Health,1090,Gym fee - Feb 16 #169
+2025-02-17,Education,470,Project supplies - Feb 17 #170
+2025-02-18,Food,370,Hostel mess extra - Feb 18 #171
+2025-02-19,Entertainment,1980,Movie - Feb 19 #172
+2025-02-20,Education,680,Online class - Feb 20 #173
+2025-02-21,Shopping,1290,Gadgets - Feb 21 #174
+2025-02-22,Transport,1000,Parking - Feb 22 #175
+2025-02-23,Food,340,Cafe - Feb 23 #176
+2025-02-24,Transport,410,Metro fare - Feb 24 #177
+2025-02-25,Entertainment,300,Outing - Feb 25 #178
+2025-02-26,Food,470,Food delivery - Feb 26 #179
+2025-02-27,Health,1410,Health products - Feb 27 #180
+2025-02-28,Entertainment,160,Cafe with friends - Feb 28 #181
+2025-03-01,Personal Care,1220,Salon - Mar 01 #182
+2025-03-02,Food,310,Snacks - Mar 02 #183
+2025-03-03,Transport,550,Auto fare - Mar 03 #184
+2025-03-04,Food,750,Lunch - Mar 04 #185
+2025-03-05,Shopping,1280,Gifts - Mar 05 #186
+2025-03-06,Utilities,180,Hostel utility - Mar 06 #187
+2025-03-07,Transport,700,Parking - Mar 07 #188
+2025-03-08,Personal Care,730,Laundry - Mar 08 #189
+2025-03-09,Food,130,Snacks - Mar 09 #190
+2025-03-10,Shopping,3010,Stationery shopping - Mar 10 #191
+2025-03-11,Transport,570,Parking - Mar 11 #192
+2025-03-12,Shopping,1930,Stationery shopping - Mar 12 #193
+2025-03-13,Utilities,1130,Electricity share - Mar 13 #194
+2025-03-14,Education,550,Books - Mar 14 #195
+2025-03-15,Entertainment,1840,Streaming - Mar 15 #196
+2025-03-16,Transport,760,Bus fare - Mar 16 #197
+2025-03-17,Personal Care,320,Grooming - Mar 17 #198
+2025-03-18,Food,420,Lunch - Mar 18 #199
+2025-03-19,Education,390,Lab material - Mar 19 #200
+2025-03-20,Entertainment,270,Cafe with friends - Mar 20 #201
+2025-03-21,Transport,580,Parking - Mar 21 #202
+2025-03-22,Utilities,1000,Mobile recharge - Mar 22 #203
+2025-03-23,Food,350,Food delivery - Mar 23 #204
+2025-03-24,Personal Care,120,Toiletries - Mar 24 #205
+2025-03-25,Education,1600,Online class - Mar 25 #206
+2025-03-26,Health,1180,Health products - Mar 26 #207
+2025-03-27,Education,760,Books - Mar 27 #208
+2025-03-28,Food,400,Food delivery - Mar 28 #209
+2025-03-29,Health,390,Pharmacy - Mar 29 #210
+2025-03-30,Food,270,Lunch - Mar 30 #211
+2025-03-31,Food,330,Weekend meal - Mar 31 #212
+2025-04-01,Food,630,Breakfast - Apr 01 #213
+2025-04-02,Transport,440,Parking - Apr 02 #214
+2025-04-03,Utilities,580,Electricity share - Apr 03 #215
+2025-04-04,Health,1110,Health products - Apr 04 #216
+2025-04-05,Entertainment,810,Outing - Apr 05 #217
+2025-04-06,Personal Care,1270,Salon - Apr 06 #218
+2025-04-07,Health,600,Health products - Apr 07 #219
+2025-04-08,Personal Care,580,Haircut - Apr 08 #220
+2025-04-09,Personal Care,790,Laundry - Apr 09 #221
+2025-04-10,Food,460,Food delivery - Apr 10 #222
+2025-04-11,Entertainment,280,Cafe with friends - Apr 11 #223
+2025-04-12,Entertainment,1860,Streaming - Apr 12 #224
+2025-04-13,Health,1160,Pharmacy - Apr 13 #225
+2025-04-14,Transport,280,Cab fare - Apr 14 #226
+2025-04-15,Transport,620,Cab fare - Apr 15 #227
+2025-04-16,Shopping,1130,Gifts - Apr 16 #228
+2025-04-17,Food,790,Food delivery - Apr 17 #229
+2025-04-18,Utilities,1170,Mobile recharge - Apr 18 #230
+2025-04-19,Food,180,Dinner - Apr 19 #231
+2025-04-20,Food,300,Snacks - Apr 20 #232
+2025-04-21,Entertainment,1670,Cafe with friends - Apr 21 #233
+2025-04-22,Shopping,1290,Personal items - Apr 22 #234
+2025-04-23,Utilities,420,OTT subscription - Apr 23 #235
+2025-04-24,Utilities,1470,Internet recharge - Apr 24 #236
+2025-04-25,Shopping,520,Gifts - Apr 25 #237
+2025-04-26,Health,150,Gym fee - Apr 26 #238
+2025-04-27,Education,650,Notebook - Apr 27 #239
+2025-04-28,Personal Care,410,Skincare - Apr 28 #240
+2025-04-29,Transport,270,Ride share - Apr 29 #241
+2025-04-30,Entertainment,1690,Streaming - Apr 30 #242
+2025-05-01,Food,800,Food delivery - May 01 #243
+2025-05-02,Education,410,Notebook - May 02 #244
+2025-05-03,Food,330,Hostel mess extra - May 03 #245
+2025-05-04,Transport,710,Auto fare - May 04 #246
+2025-05-05,Food,290,Weekend meal - May 05 #247
+2025-05-06,Shopping,1630,Accessories - May 06 #248
+2025-05-07,Health,220,Health products - May 07 #249
+2025-05-08,Shopping,1560,Backpack - May 08 #250
+2025-05-09,Transport,910,Fuel - May 09 #251
+2025-05-10,Personal Care,120,Skincare - May 10 #252
+2025-05-11,Education,360,Lab material - May 11 #253
+2025-05-12,Health,1790,Medicine - May 12 #254
+2025-05-13,Personal Care,1250,Grooming - May 13 #255
+2025-05-14,Food,120,Snacks - May 14 #256
+2025-05-15,Personal Care,160,Skincare - May 15 #257
+2025-05-16,Education,1090,Lab material - May 16 #258
+2025-05-17,Food,290,Breakfast - May 17 #259
+2025-05-18,Transport,210,Metro fare - May 18 #260
+2025-05-19,Entertainment,980,Cafe with friends - May 19 #261
+2025-05-20,Utilities,1140,Internet recharge - May 20 #262
+2025-05-21,Food,290,Hostel mess extra - May 21 #263
+2025-05-22,Shopping,330,Shoes - May 22 #264
+2025-05-23,Utilities,990,Hostel utility - May 23 #265
+2025-05-24,Education,2110,Project supplies - May 24 #266
+2025-05-25,Food,650,Lunch - May 25 #267
+2025-05-26,Food,150,Food delivery - May 26 #268
+2025-05-27,Shopping,1820,Gifts - May 27 #269
+2025-05-28,Entertainment,310,Cafe with friends - May 28 #270
+2025-05-29,Personal Care,1140,Toiletries - May 29 #271
+2025-05-30,Entertainment,1390,Streaming - May 30 #272
+2025-05-31,Food,280,Breakfast - May 31 #273
+2025-06-01,Shopping,180,Clothes - Jun 01 #274
+2025-06-02,Personal Care,450,Grooming - Jun 02 #275
+2025-06-03,Food,720,Food delivery - Jun 03 #276
+2025-06-04,Food,600,Breakfast - Jun 04 #277
+2025-06-05,Transport,810,Auto fare - Jun 05 #278
+2025-06-06,Education,1290,Lab material - Jun 06 #279
+2025-06-07,Entertainment,1030,Cafe with friends - Jun 07 #280
+2025-06-08,Food,310,Dinner - Jun 08 #281
+2025-06-09,Entertainment,1350,Movie - Jun 09 #282
+2025-06-10,Health,1580,Health products - Jun 10 #283
+2025-06-11,Utilities,110,Electricity share - Jun 11 #284
+2025-06-12,Utilities,1380,Mobile recharge - Jun 12 #285
+2025-06-13,Transport,1110,Metro fare - Jun 13 #286
+2025-06-14,Food,760,Dinner - Jun 14 #287
+2025-06-15,Education,240,Project supplies - Jun 15 #288
+2025-06-16,Education,920,Course material - Jun 16 #289
+2025-06-17,Education,1190,Books - Jun 17 #290
+2025-06-18,Food,790,Weekend meal - Jun 18 #291
+2025-06-19,Utilities,1380,Mobile recharge - Jun 19 #292
+2025-06-20,Personal Care,1110,Grooming - Jun 20 #293
+2025-06-21,Personal Care,330,Skincare - Jun 21 #294
+2025-06-22,Health,2350,Pharmacy - Jun 22 #295
+2025-06-23,Food,730,Food delivery - Jun 23 #296
+2025-06-24,Food,230,Dinner - Jun 24 #297
+2025-06-25,Entertainment,730,Outing - Jun 25 #298
+2025-06-26,Utilities,140,OTT subscription - Jun 26 #299
+2025-06-27,Shopping,880,Backpack - Jun 27 #300
+2025-06-28,Food,470,Lunch - Jun 28 #301
+2025-06-29,Transport,180,Bus fare - Jun 29 #302
+2025-06-30,Education,1030,Project supplies - Jun 30 #303
+2025-07-01,Food,750,Hostel mess extra - Jul 01 #304
+2025-07-02,Entertainment,1720,Outing - Jul 02 #305
+2025-07-03,Food,440,Lunch - Jul 03 #306
+2025-07-04,Food,290,Hostel mess extra - Jul 04 #307
+2025-07-05,Shopping,2700,Gadgets - Jul 05 #308
+2025-07-06,Food,660,Hostel mess extra - Jul 06 #309
+2025-07-07,Food,810,Dinner - Jul 07 #310
+2025-07-08,Transport,310,Ride share - Jul 08 #311
+2025-07-09,Utilities,410,Hostel utility - Jul 09 #312
+2025-07-10,Utilities,1260,Mobile recharge - Jul 10 #313
+2025-07-11,Shopping,2200,Gifts - Jul 11 #314
+2025-07-12,Education,590,Project supplies - Jul 12 #315
+2025-07-13,Health,1330,Medicine - Jul 13 #316
+2025-07-14,Entertainment,2010,Bowling - Jul 14 #317
+2025-07-15,Personal Care,1280,Grooming - Jul 15 #318
+2025-07-16,Utilities,1280,Cloud storage - Jul 16 #319
+2025-07-17,Transport,560,Fuel - Jul 17 #320
+2025-07-18,Transport,350,Cab fare - Jul 18 #321
+2025-07-19,Education,390,Books - Jul 19 #322
+2025-07-20,Food,840,Breakfast - Jul 20 #323
+2025-07-21,Transport,390,Fuel - Jul 21 #324
+2025-07-22,Education,1440,Printing - Jul 22 #325
+2025-07-23,Education,970,Course material - Jul 23 #326
+2025-07-24,Personal Care,1400,Toiletries - Jul 24 #327
+2025-07-25,Shopping,1410,Personal items - Jul 25 #328
+2025-07-26,Food,340,Lunch - Jul 26 #329
+2025-07-27,Entertainment,640,Gaming - Jul 27 #330
+2025-07-28,Shopping,800,Personal items - Jul 28 #331
+2025-07-29,Education,480,Books - Jul 29 #332
+2025-07-30,Personal Care,130,Grooming - Jul 30 #333
+2025-07-31,Education,470,Course material - Jul 31 #334
+2025-08-01,Food,90,Lunch - Aug 01 #335
+2025-08-02,Transport,640,Parking - Aug 02 #336
+2025-08-03,Food,860,Weekend meal - Aug 03 #337
+2025-08-04,Transport,1180,Parking - Aug 04 #338
+2025-08-05,Education,1190,Course material - Aug 05 #339
+2025-08-06,Education,1200,Books - Aug 06 #340
+2025-08-07,Education,2800,Course material - Aug 07 #341
+2025-08-08,Food,690,Dinner - Aug 08 #342
+2025-08-09,Entertainment,820,Cafe with friends - Aug 09 #343
+2025-08-10,Food,380,Lunch - Aug 10 #344
+2025-08-11,Shopping,290,Gadgets - Aug 11 #345
+2025-08-12,Personal Care,730,Toiletries - Aug 12 #346
+2025-08-13,Transport,460,Cab fare - Aug 13 #347
+2025-08-14,Utilities,130,Mobile recharge - Aug 14 #348
+2025-08-15,Entertainment,1320,Cafe with friends - Aug 15 #349
+2025-08-16,Transport,600,Auto fare - Aug 16 #350
+2025-08-17,Transport,170,Metro fare - Aug 17 #351
+2025-08-18,Shopping,1550,Backpack - Aug 18 #352
+2025-08-19,Shopping,2580,Gifts - Aug 19 #353
+2025-08-20,Food,170,Snacks - Aug 20 #354
+2025-08-21,Personal Care,1370,Skincare - Aug 21 #355
+2025-08-22,Education,1180,Notebook - Aug 22 #356
+2025-08-23,Entertainment,1220,Event ticket - Aug 23 #357
+2025-08-24,Transport,600,Auto fare - Aug 24 #358
+2025-08-25,Personal Care,180,Salon - Aug 25 #359
+2025-08-26,Food,190,Lunch - Aug 26 #360
+2025-08-27,Food,650,Snacks - Aug 27 #361
+2025-08-28,Shopping,3190,Stationery shopping - Aug 28 #362
+2025-08-29,Food,180,Hostel mess extra - Aug 29 #363
+2025-08-30,Personal Care,1330,Laundry - Aug 30 #364
+2025-08-31,Personal Care,1200,Grooming - Aug 31 #365
+2025-09-01,Personal Care,690,Haircut - Sep 01 #366
+2025-09-02,Shopping,780,Personal items - Sep 02 #367
+2025-09-03,Education,760,Stationery - Sep 03 #368
+2025-09-04,Entertainment,1660,Gaming - Sep 04 #369
+2025-09-05,Transport,1070,Metro fare - Sep 05 #370
+2025-09-06,Food,170,Snacks - Sep 06 #371
+2025-09-07,Food,400,Food delivery - Sep 07 #372
+2025-09-08,Personal Care,1340,Toiletries - Sep 08 #373
+2025-09-09,Shopping,2940,Shoes - Sep 09 #374
+2025-09-10,Health,640,Health products - Sep 10 #375
+2025-09-11,Food,130,Snacks - Sep 11 #376
+2025-09-12,Transport,620,Metro fare - Sep 12 #377
+2025-09-13,Health,410,First-aid supplies - Sep 13 #378
+2025-09-14,Food,320,Lunch - Sep 14 #379
+2025-09-15,Personal Care,740,Toiletries - Sep 15 #380
+2025-09-16,Food,770,Lunch - Sep 16 #381
+2025-09-17,Health,820,Health products - Sep 17 #382
+2025-09-18,Food,730,Food delivery - Sep 18 #383
+2025-09-19,Shopping,3590,Accessories - Sep 19 #384
+2025-09-20,Entertainment,1430,Cafe with friends - Sep 20 #385
+2025-09-21,Shopping,2890,Backpack - Sep 21 #386
+2025-09-22,Shopping,3380,Shoes - Sep 22 #387
+2025-09-23,Transport,710,Auto fare - Sep 23 #388
+2025-09-24,Shopping,2850,Accessories - Sep 24 #389
+2025-09-25,Entertainment,1100,Outing - Sep 25 #390
+2025-09-26,Personal Care,550,Skincare - Sep 26 #391
+2025-09-27,Transport,470,Cab fare - Sep 27 #392
+2025-09-28,Transport,340,Ride share - Sep 28 #393
+2025-09-29,Shopping,2860,Backpack - Sep 29 #394
+2025-09-30,Food,330,Weekend meal - Sep 30 #395
+2025-10-01,Food,580,Snacks - Oct 01 #396
+2025-10-02,Transport,150,Bus fare - Oct 02 #397
+2025-10-03,Shopping,1520,Gadgets - Oct 03 #398
+2025-10-04,Transport,860,Parking - Oct 04 #399
+2025-10-05,Transport,640,Metro fare - Oct 05 #400
+2025-10-06,Utilities,170,Electricity share - Oct 06 #401
+2025-10-07,Personal Care,880,Skincare - Oct 07 #402
+2025-10-08,Shopping,650,Stationery shopping - Oct 08 #403
+2025-10-09,Health,530,Medicine - Oct 09 #404
+2025-10-10,Food,650,Lunch - Oct 10 #405
+2025-10-11,Transport,260,Cab fare - Oct 11 #406
+2025-10-12,Entertainment,610,Bowling - Oct 12 #407
+2025-10-13,Food,190,Weekend meal - Oct 13 #408
+2025-10-14,Education,750,Online class - Oct 14 #409
+2025-10-15,Food,280,Cafe - Oct 15 #410
+2025-10-16,Utilities,160,Cloud storage - Oct 16 #411
+2025-10-17,Shopping,240,Clothes - Oct 17 #412
+2025-10-18,Health,370,Pharmacy - Oct 18 #413
+2025-10-19,Transport,100,Ride share - Oct 19 #414
+2025-10-20,Education,1610,Stationery - Oct 20 #415
+2025-10-21,Education,550,Online class - Oct 21 #416
+2025-10-22,Food,840,Weekend meal - Oct 22 #417
+2025-10-23,Shopping,3520,Gifts - Oct 23 #418
+2025-10-24,Utilities,650,OTT subscription - Oct 24 #419
+2025-10-25,Transport,630,Ride share - Oct 25 #420
+2025-10-26,Food,200,Lunch - Oct 26 #421
+2025-10-27,Utilities,440,Electricity share - Oct 27 #422
+2025-10-28,Transport,750,Parking - Oct 28 #423
+2025-10-29,Transport,550,Metro fare - Oct 29 #424
+2025-10-30,Transport,100,Ride share - Oct 30 #425
+2025-10-31,Shopping,1430,Accessories - Oct 31 #426
+2025-11-01,Transport,880,Ride share - Nov 01 #427
+2025-11-02,Food,190,Breakfast - Nov 02 #428
+2025-11-03,Transport,590,Metro fare - Nov 03 #429
+2025-11-04,Health,1140,First-aid supplies - Nov 04 #430
+2025-11-05,Education,210,Course material - Nov 05 #431
+2025-11-06,Food,150,Lunch - Nov 06 #432
+2025-11-07,Personal Care,580,Toiletries - Nov 07 #433
+2025-11-08,Utilities,160,Cloud storage - Nov 08 #434
+2025-11-09,Education,600,Lab material - Nov 09 #435
+2025-11-10,Health,1720,Pharmacy - Nov 10 #436
+2025-11-11,Education,540,Notebook - Nov 11 #437
+2025-11-12,Transport,390,Parking - Nov 12 #438
+2025-11-13,Food,140,Breakfast - Nov 13 #439
+2025-11-14,Education,1540,Online class - Nov 14 #440
+2025-11-15,Entertainment,1830,Music subscription - Nov 15 #441
+2025-11-16,Entertainment,830,Cafe with friends - Nov 16 #442
+2025-11-17,Food,540,Weekend meal - Nov 17 #443
+2025-11-18,Transport,860,Metro fare - Nov 18 #444
+2025-11-19,Shopping,2220,Personal items - Nov 19 #445
+2025-11-20,Transport,850,Metro fare - Nov 20 #446
+2025-11-21,Entertainment,1260,Event ticket - Nov 21 #447
+2025-11-22,Food,410,Cafe - Nov 22 #448
+2025-11-23,Education,730,Stationery - Nov 23 #449
+2025-11-24,Food,340,Lunch - Nov 24 #450
+2025-11-25,Education,1590,Printing - Nov 25 #451
+2025-11-26,Transport,910,Auto fare - Nov 26 #452
+2025-11-27,Education,420,Notebook - Nov 27 #453
+2025-11-28,Food,720,Breakfast - Nov 28 #454
+2025-11-29,Utilities,580,OTT subscription - Nov 29 #455
+2025-11-30,Utilities,300,OTT subscription - Nov 30 #456
+2025-12-01,Food,720,Snacks - Dec 01 #457
+2025-12-02,Food,510,Hostel mess extra - Dec 02 #458
+2025-12-03,Food,660,Food delivery - Dec 03 #459
+2025-12-04,Shopping,1450,Gifts - Dec 04 #460
+2025-12-05,Shopping,1510,Accessories - Dec 05 #461
+2025-12-06,Food,760,Food delivery - Dec 06 #462
+2025-12-07,Food,180,Food delivery - Dec 07 #463
+2025-12-08,Utilities,440,Internet recharge - Dec 08 #464
+2025-12-09,Food,800,Dinner - Dec 09 #465
+2025-12-10,Personal Care,1250,Grooming - Dec 10 #466
+2025-12-11,Food,750,Snacks - Dec 11 #467
+2025-12-12,Food,320,Cafe - Dec 12 #468
+2025-12-13,Food,710,Lunch - Dec 13 #469
+2025-12-14,Shopping,1100,Personal items - Dec 14 #470
+2025-12-15,Entertainment,2030,Gaming - Dec 15 #471
+2025-12-16,Transport,320,Auto fare - Dec 16 #472
+2025-12-17,Food,620,Lunch - Dec 17 #473
+2025-12-18,Food,750,Dinner - Dec 18 #474
+2025-12-19,Health,340,Medicine - Dec 19 #475
+2025-12-20,Entertainment,1910,Cafe with friends - Dec 20 #476
+2025-12-21,Transport,830,Ride share - Dec 21 #477
+2025-12-22,Entertainment,860,Streaming - Dec 22 #478
+2025-12-23,Health,930,Health products - Dec 23 #479
+2025-12-24,Transport,950,Parking - Dec 24 #480
+2025-12-25,Entertainment,980,Event ticket - Dec 25 #481
+2025-12-26,Entertainment,960,Gaming - Dec 26 #482
+2025-12-27,Health,1540,First-aid supplies - Dec 27 #483
+2025-12-28,Food,480,Dinner - Dec 28 #484
+2025-12-29,Transport,1130,Metro fare - Dec 29 #485
+2025-12-30,Transport,1120,Metro fare - Dec 30 #486
+2025-12-31,Health,1740,Health products - Dec 31 #487
+2026-01-01,Health,680,Medicine - Jan 01 #488
+2026-01-02,Transport,750,Ride share - Jan 02 #489
+2026-01-03,Shopping,2960,Clothes - Jan 03 #490
+2026-01-04,Entertainment,1150,Streaming - Jan 04 #491
+2026-01-05,Shopping,2560,Backpack - Jan 05 #492
+2026-01-06,Food,760,Weekend meal - Jan 06 #493
+2026-01-07,Entertainment,1380,Cafe with friends - Jan 07 #494
+2026-01-08,Health,670,Pharmacy - Jan 08 #495
+2026-01-09,Utilities,110,Mobile recharge - Jan 09 #496
+2026-01-10,Personal Care,730,Laundry - Jan 10 #497
+2026-01-11,Shopping,2420,Stationery shopping - Jan 11 #498
+2026-01-12,Food,570,Cafe - Jan 12 #499
+2026-01-13,Food,660,Snacks - Jan 13 #500
+2026-01-14,Entertainment,1530,Streaming - Jan 14 #501
+2026-01-15,Personal Care,520,Haircut - Jan 15 #502
+2026-01-16,Food,580,Lunch - Jan 16 #503
+2026-01-17,Personal Care,1000,Grooming - Jan 17 #504
+2026-01-18,Education,280,Books - Jan 18 #505
+2026-01-19,Transport,500,Parking - Jan 19 #506
+2026-01-20,Personal Care,540,Grooming - Jan 20 #507
+2026-01-21,Food,300,Weekend meal - Jan 21 #508
+2026-01-22,Food,410,Dinner - Jan 22 #509
+2026-01-23,Personal Care,1060,Skincare - Jan 23 #510
+2026-01-24,Food,1080,Food delivery - Jan 24 #511
+2026-01-25,Entertainment,250,Outing - Jan 25 #512
+2026-01-26,Food,640,Dinner - Jan 26 #513
+2026-01-27,Food,360,Dinner - Jan 27 #514
+2026-01-28,Personal Care,840,Salon - Jan 28 #515
+2026-01-29,Utilities,600,Electricity share - Jan 29 #516
+2026-01-30,Food,700,Cafe - Jan 30 #517
+2026-01-31,Transport,210,Parking - Jan 31 #518
+2026-02-01,Shopping,1070,Clothes - Feb 01 #519
+2026-02-02,Personal Care,760,Laundry - Feb 02 #520
+2026-02-03,Transport,1020,Fuel - Feb 03 #521
+2026-02-04,Education,380,Project supplies - Feb 04 #522
+2026-02-05,Food,600,Breakfast - Feb 05 #523
+2026-02-06,Food,520,Breakfast - Feb 06 #524
+2026-02-07,Transport,980,Fuel - Feb 07 #525
+2026-02-08,Personal Care,110,Grooming - Feb 08 #526
+2026-02-09,Food,520,Food delivery - Feb 09 #527
+2026-02-10,Education,240,Stationery - Feb 10 #528
+2026-02-11,Shopping,880,Clothes - Feb 11 #529
+2026-02-12,Transport,1060,Auto fare - Feb 12 #530
+2026-02-13,Entertainment,2180,Streaming - Feb 13 #531
+2026-02-14,Food,750,Cafe - Feb 14 #532
+2026-02-15,Education,870,Project supplies - Feb 15 #533
+2026-02-16,Transport,1020,Metro fare - Feb 16 #534
+2026-02-17,Shopping,1520,Gifts - Feb 17 #535
+2026-02-18,Personal Care,640,Haircut - Feb 18 #536
+2026-02-19,Utilities,550,Electricity share - Feb 19 #537
+2026-02-20,Food,240,Lunch - Feb 20 #538
+2026-02-21,Shopping,460,Accessories - Feb 21 #539
+2026-02-22,Personal Care,200,Grooming - Feb 22 #540
+2026-02-23,Shopping,650,Backpack - Feb 23 #541
+2026-02-24,Food,650,Snacks - Feb 24 #542
+2026-02-25,Food,400,Dinner - Feb 25 #543
+2026-02-26,Education,250,Lab material - Feb 26 #544
+2026-02-27,Shopping,250,Backpack - Feb 27 #545
+2026-02-28,Food,360,Dinner - Feb 28 #546
+2026-03-01,Utilities,680,Hostel utility - Mar 01 #547
+2026-03-02,Health,1020,Medicine - Mar 02 #548
+2026-03-03,Entertainment,420,Streaming - Mar 03 #549
+2026-03-04,Entertainment,290,Event ticket - Mar 04 #550
+2026-03-05,Transport,830,Metro fare - Mar 05 #551
+2026-03-06,Transport,880,Parking - Mar 06 #552
+2026-03-07,Utilities,310,Hostel utility - Mar 07 #553
+2026-03-08,Personal Care,1390,Laundry - Mar 08 #554
+2026-03-09,Food,700,Snacks - Mar 09 #555
+2026-03-10,Transport,70,Auto fare - Mar 10 #556
+2026-03-11,Health,1690,Health products - Mar 11 #557
+2026-03-12,Food,780,Breakfast - Mar 12 #558
+2026-03-13,Shopping,870,Gifts - Mar 13 #559
+2026-03-14,Transport,960,Metro fare - Mar 14 #560
+2026-03-15,Entertainment,960,Streaming - Mar 15 #561
+2026-03-16,Shopping,1810,Accessories - Mar 16 #562
+2026-03-17,Transport,520,Cab fare - Mar 17 #563
+2026-03-18,Transport,620,Ride share - Mar 18 #564
+2026-03-19,Health,800,Medicine - Mar 19 #565
+2026-03-20,Shopping,1850,Backpack - Mar 20 #566
+2026-03-21,Entertainment,1700,Music subscription - Mar 21 #567
+2026-03-22,Health,260,First-aid supplies - Mar 22 #568
+2026-03-23,Personal Care,220,Skincare - Mar 23 #569
+2026-03-24,Transport,1170,Parking - Mar 24 #570
+2026-03-25,Transport,810,Ride share - Mar 25 #571
+2026-03-26,Personal Care,890,Salon - Mar 26 #572
+2026-03-27,Personal Care,370,Skincare - Mar 27 #573
+2026-03-28,Education,1660,Notebook - Mar 28 #574
+2026-03-29,Transport,530,Cab fare - Mar 29 #575
+2026-03-30,Education,910,Printing - Mar 30 #576
+2026-03-31,Transport,930,Metro fare - Mar 31 #577
+2026-04-01,Education,230,Online class - Apr 01 #578
+2026-04-02,Food,300,Lunch - Apr 02 #579
+2026-04-03,Shopping,2630,Gadgets - Apr 03 #580
+2026-04-04,Shopping,170,Stationery shopping - Apr 04 #581
+2026-04-05,Food,860,Breakfast - Apr 05 #582
+2026-04-06,Food,580,Hostel mess extra - Apr 06 #583
+2026-04-07,Personal Care,690,Haircut - Apr 07 #584
+2026-04-08,Transport,530,Metro fare - Apr 08 #585
+2026-04-09,Personal Care,150,Haircut - Apr 09 #586
+2026-04-10,Education,1170,Online class - Apr 10 #587
+2026-04-11,Utilities,790,Mobile recharge - Apr 11 #588
+2026-04-12,Transport,370,Bus fare - Apr 12 #589
+2026-04-13,Utilities,1000,Electricity share - Apr 13 #590
+2026-04-14,Food,200,Food delivery - Apr 14 #591
+2026-04-15,Transport,1180,Ride share - Apr 15 #592
+2026-04-16,Entertainment,1280,Cafe with friends - Apr 16 #593
+2026-04-17,Food,520,Snacks - Apr 17 #594
+2026-04-18,Entertainment,720,Movie - Apr 18 #595
+2026-04-19,Transport,680,Auto fare - Apr 19 #596
+2026-04-20,Food,390,Snacks - Apr 20 #597
+2026-04-21,Education,1560,Books - Apr 21 #598
+2026-04-22,Shopping,980,Gadgets - Apr 22 #599
+2026-04-23,Education,1430,Course material - Apr 23 #600
+2026-04-24,Food,300,Lunch - Apr 24 #601
+2026-04-25,Health,1060,Health products - Apr 25 #602
+2026-04-26,Health,610,Gym fee - Apr 26 #603
+2026-04-27,Personal Care,810,Skincare - Apr 27 #604
+2026-04-28,Personal Care,910,Salon - Apr 28 #605
+2026-04-29,Transport,530,Parking - Apr 29 #606
+2026-04-30,Health,1470,Medicine - Apr 30 #607
+2026-05-01,Entertainment,1420,Streaming - May 01 #608
+2026-05-02,Transport,200,Cab fare - May 02 #609
+2026-05-03,Food,190,Food delivery - May 03 #610
+2026-05-04,Entertainment,1110,Event ticket - May 04 #611
+2026-05-05,Transport,430,Parking - May 05 #612
+2026-05-06,Personal Care,850,Laundry - May 06 #613
+2026-05-07,Education,1250,Course material - May 07 #614
+2026-05-08,Transport,1190,Bus fare - May 08 #615
+2026-05-09,Personal Care,1180,Salon - May 09 #616
+2026-05-10,Personal Care,1240,Salon - May 10 #617
+2026-05-11,Shopping,2980,Clothes - May 11 #618
+2026-05-12,Food,120,Dinner - May 12 #619
+2026-05-13,Food,570,Snacks - May 13 #620
+2026-05-14,Food,760,Hostel mess extra - May 14 #621
+2026-05-15,Personal Care,500,Toiletries - May 15 #622
+2026-05-16,Health,490,Health products - May 16 #623
+2026-05-17,Health,1610,Medicine - May 17 #624
+2026-05-18,Health,220,Gym fee - May 18 #625
+2026-05-19,Entertainment,850,Cafe with friends - May 19 #626
+2026-05-20,Food,300,Snacks - May 20 #627
+2026-05-21,Transport,960,Bus fare - May 21 #628
+2026-05-22,Personal Care,100,Toiletries - May 22 #629
+2026-05-23,Utilities,1330,OTT subscription - May 23 #630
+2026-05-24,Food,360,Snacks - May 24 #631
+2026-05-25,Entertainment,800,Gaming - May 25 #632
+2026-05-26,Utilities,470,Electricity share - May 26 #633
+2026-05-27,Education,1220,Stationery - May 27 #634
+2026-05-28,Food,760,Cafe - May 28 #635
+2026-05-29,Personal Care,860,Haircut - May 29 #636
+2026-05-30,Shopping,2490,Personal items - May 30 #637
+2026-05-31,Personal Care,680,Skincare - May 31 #638
+2026-06-01,Transport,580,Cab fare - Jun 01 #639
+2026-06-02,Transport,860,Fuel - Jun 02 #640
+2026-06-03,Food,520,Food delivery - Jun 03 #641
+2026-06-04,Utilities,650,Internet recharge - Jun 04 #642
+2026-06-05,Food,650,Hostel mess extra - Jun 05 #643
+2026-06-06,Entertainment,770,Event ticket - Jun 06 #644
+2026-06-07,Transport,580,Auto fare - Jun 07 #645
+2026-06-08,Education,990,Lab material - Jun 08 #646
+2026-06-09,Entertainment,2020,Bowling - Jun 09 #647
+2026-06-10,Utilities,120,Mobile recharge - Jun 10 #648
+2026-06-11,Utilities,990,Electricity share - Jun 11 #649
+2026-06-12,Food,750,Snacks - Jun 12 #650
+2026-06-13,Entertainment,1760,Music subscription - Jun 13 #651
+2026-06-14,Shopping,1730,Shoes - Jun 14 #652
+2026-06-15,Health,560,Pharmacy - Jun 15 #653
+2026-06-16,Food,410,Food delivery - Jun 16 #654
+2026-06-17,Personal Care,970,Grooming - Jun 17 #655
+2026-06-18,Food,780,Snacks - Jun 18 #656
+2026-06-19,Shopping,950,Gadgets - Jun 19 #657
+2026-06-20,Food,1000,Food delivery - Jun 20 #658
+2026-06-21,Entertainment,1310,Bowling - Jun 21 #659
+2026-06-22,Personal Care,390,Laundry - Jun 22 #660
+2026-06-23,Transport,480,Auto fare - Jun 23 #661
+2026-06-24,Personal Care,1110,Laundry - Jun 24 #662
+2026-06-25,Food,440,Dinner - Jun 25 #663
+2026-06-26,Food,210,Lunch - Jun 26 #664
+2026-06-27,Entertainment,2170,Event ticket - Jun 27 #665
+2026-06-28,Personal Care,550,Grooming - Jun 28 #666
+2026-06-29,Personal Care,480,Salon - Jun 29 #667
+2026-06-30,Entertainment,740,Event ticket - Jun 30 #668
+2026-07-01,Personal Care,1110,Laundry - Jul 01 #669
+2026-07-02,Food,720,Food delivery - Jul 02 #670
+2026-07-03,Shopping,2430,Accessories - Jul 03 #671
+2026-07-04,Shopping,2720,Clothes - Jul 04 #672
+2026-07-05,Transport,1010,Bus fare - Jul 05 #673
+2026-07-06,Shopping,2380,Shoes - Jul 06 #674
+2026-07-07,Transport,870,Parking - Jul 07 #675
+2026-07-08,Education,1650,Online class - Jul 08 #676
+2026-07-09,Food,380,Snacks - Jul 09 #677
+2026-07-10,Entertainment,570,Event ticket - Jul 10 #678
+2026-07-11,Personal Care,1350,Grooming - Jul 11 #679
+2026-07-12,Food,440,Snacks - Jul 12 #680
+2026-07-13,Utilities,1180,Cloud storage - Jul 13 #681
+2026-07-14,Education,500,Course material - Jul 14 #682
+2026-07-15,Personal Care,500,Toiletries - Jul 15 #683
+2026-07-16,Transport,720,Auto fare - Jul 16 #684
+2026-07-17,Transport,570,Metro fare - Jul 17 #685
+2026-07-18,Food,400,Lunch - Jul 18 #686
+2026-07-19,Shopping,1430,Gifts - Jul 19 #687
+2026-07-20,Utilities,240,OTT subscription - Jul 20 #688
+2026-07-21,Health,310,First-aid supplies - Jul 21 #689
+2026-07-22,Entertainment,540,Gaming - Jul 22 #690
+2026-07-23,Education,1400,Online class - Jul 23 #691
+2026-07-24,Utilities,900,Electricity share - Jul 24 #692
+2026-07-25,Health,550,Gym fee - Jul 25 #693
+2026-07-26,Food,600,Food delivery - Jul 26 #694
+2026-07-27,Food,210,Cafe - Jul 27 #695
+2026-07-28,Food,320,Cafe - Jul 28 #696
+2026-07-29,Transport,230,Fuel - Jul 29 #697
+2026-07-30,Food,600,Weekend meal - Jul 30 #698
+2026-07-31,Food,640,Food delivery - Jul 31 #699
+2026-08-01,Transport,190,Bus fare - Aug 01 #700
+2026-08-02,Food,790,Lunch - Aug 02 #701
+2026-08-03,Food,280,Snacks - Aug 03 #702
+2026-08-04,Education,560,Printing - Aug 04 #703
+2026-08-05,Entertainment,800,Bowling - Aug 05 #704
+2026-08-06,Transport,160,Auto fare - Aug 06 #705
+2026-08-07,Shopping,2290,Backpack - Aug 07 #706
+2026-08-08,Food,770,Snacks - Aug 08 #707
+2026-08-09,Health,490,First-aid supplies - Aug 09 #708
+2026-08-10,Education,1210,Books - Aug 10 #709
+2026-08-11,Food,520,Dinner - Aug 11 #710
+2026-08-12,Entertainment,1340,Gaming - Aug 12 #711
+2026-08-13,Transport,260,Cab fare - Aug 13 #712
+2026-08-14,Food,640,Weekend meal - Aug 14 #713
+2026-08-15,Utilities,1160,Cloud storage - Aug 15 #714
+2026-08-16,Personal Care,390,Grooming - Aug 16 #715
+2026-08-17,Personal Care,650,Haircut - Aug 17 #716
+2026-08-18,Health,330,Gym fee - Aug 18 #717
+2026-08-19,Entertainment,1960,Bowling - Aug 19 #718
+2026-08-20,Personal Care,780,Laundry - Aug 20 #719
+2026-08-21,Food,810,Weekend meal - Aug 21 #720
+2026-08-22,Entertainment,1760,Bowling - Aug 22 #721
+2026-08-23,Transport,740,Parking - Aug 23 #722
+2026-08-24,Transport,850,Auto fare - Aug 24 #723
+2026-08-25,Food,520,Dinner - Aug 25 #724
+2026-08-26,Entertainment,620,Movie - Aug 26 #725
+2026-08-27,Transport,260,Cab fare - Aug 27 #726
+2026-08-28,Transport,690,Parking - Aug 28 #727
+2026-08-29,Food,170,Hostel mess extra - Aug 29 #728
+2026-08-30,Shopping,1200,Stationery shopping - Aug 30 #729
+2026-08-31,Health,1400,Health products - Aug 31 #730
